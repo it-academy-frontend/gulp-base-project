@@ -1,0 +1,11 @@
+@import "base/variables";
+
+h1{
+    color: $mainColor;
+}
+
+.big-box {
+    width: 220px;
+    height: 2220px;
+    background: linear-gradient(to top, lightcoral, lightgreen);
+}
